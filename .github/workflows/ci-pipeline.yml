@@ -28,11 +28,6 @@ jobs:
           name: my-artifact
           path: foo.txt
 
-
-#
-#
-#
-jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
